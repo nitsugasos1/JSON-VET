@@ -6,7 +6,8 @@
     "tag": "BLOG",
     "title": "Cómo Mantener a tu Perro Saludable",
     "author": "Dr. Ana López",
-    "content": "En el mundo actual, las mascotas son más que simples animales de compañía; son miembros de la familia que nos brindan amor incondicional, alegría y compañía. Exploraremos diversas áreas clave del cuidado integral de las mascotas, incluyendo la nutrición, el ejercicio, la atención veterinaria y el cuidado emocional."
+    "content": "En el mundo actual, las mascotas son más que simples animales de compañía; son miembros de la familia que nos brindan amor incondicional, alegría y compañía. Exploraremos diversas áreas clave del cuidado integral de las mascotas, incluyendo la nutrición, el ejercicio, la atención veterinaria y el cuidado emocional.",
+    "vote": 5
   },
   {
     "image": "https://example.com/images/cat-nutrition.jpg",
@@ -15,6 +16,7 @@
     "title": "La Nutrición Adecuada para Gatos",
     "author": "Dr. José Martínez",
     "content": "Las mascotas juegan un papel fundamental en nuestras vidas, ofreciéndonos compañía, amor y alegría. Exploraremos la importancia del juego en la vida de las mascotas, sus beneficios y algunas recomendaciones para fomentar el juego de manera adecuada."
+    "vote": 10
   },
   {
     "image": "https://example.com/images/pet-mental-health.jpg",
@@ -23,6 +25,7 @@
     "title": "Cómo Preparar a tu Mascota para una Visita al Veterinario",
     "author": "Dra. Laura Gómez",
     "content": "Las visitas al veterinario son inevitables en la vida de nuestras mascotas, ya sea para chequeos regulares, vacunas o tratamientos médicos. Exploraremos algunos consejos prácticos para preparar a tu mascota para una visita al veterinario."
+    "vote": 60
   },
   {
     "image": "https://example.com/images/rabbit-care.jpg",
@@ -31,6 +34,7 @@
     "title": "Cuidado de Conejos: Lo Que Necesitas Saber",
     "author": "Dr. Fernando Ruiz",
     "content": "Cuidado de Conejos: Lo Que Necesitas Saber. Los conejos son mascotas encantadoras y adorables que requieren cuidados específicos para garantizar su salud y bienestar. Exploraremos todo lo que necesitas saber sobre el cuidado adecuado de conejos, desde su alimentación hasta su alojamiento y atención médica."
+    "vote": 100
   },
   {
     "image": "https://example.com/images/bird-health.jpg",
@@ -39,6 +43,7 @@
     "title": "Consejos para Mantener a tu Ave Sana",
     "author": "Dra. Marta Pérez",
     "content": "Consejos para Mantener a tu Ave Sana. Las aves son mascotas fascinantes y hermosas que requieren cuidados específicos para mantener su salud y bienestar. Exploraremos una serie de consejos útiles para garantizar que tu ave esté feliz y saludable. La nutrición es clave para la salud de las aves."
+    "vote": 76
   }
 ]
 
