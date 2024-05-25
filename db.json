@@ -1,7 +1,7 @@
 {
 "post": [
   {
-    "image": "https://example.com/images/healthy-dog.jpg",
+    "image": "/Assets/image3.jpg",
     "date": "28 Mar",
     "tag": "BLOG",
     "title": "Cómo Mantener a tu Perro Saludable",
@@ -10,7 +10,7 @@
     "vote": 5
   },
   {
-    "image": "https://example.com/images/cat-nutrition.jpg",
+    "image": "/Assets/image1.jpg",
     "date": "15 Abr",
     "tag": "BLOG",
     "title": "La Nutrición Adecuada para Gatos",
@@ -28,7 +28,7 @@
     "vote": 60
   },
   {
-    "image": "https://example.com/images/rabbit-care.jpg",
+    "image": "/Assets/image1.jpg",
     "date": "20 Jun",
     "tag": "BLOG",
     "title": "Cuidado de Conejos: Lo Que Necesitas Saber",
@@ -37,7 +37,7 @@
     "vote": 100
   },
   {
-    "image": "https://example.com/images/bird-health.jpg",
+    "image": "/Assets/image2.jpg",
     "date": "10 Jul",
     "tag": "BLOG",
     "title": "Consejos para Mantener a tu Ave Sana",
